@@ -186,5 +186,5 @@ import groovy.transform.Field
     _PARAM_ONLINE_VERSION = "online_version"
     _PARAM_PRESSURE = "pressure"
     _PARAM_CH_FLOW_TEMP = 'ch_flow_temperature'
-    _PARAM_CH_FIXED_TEMP = 'ch_fixed_temperature'
+    _PARAM_CH_FIXED_TEMP = 'ch_fixed_temperature' 
 
